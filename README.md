@@ -9,9 +9,6 @@ I graduated from Al al-Bayt University with a major in Software Engineer .
 I am currently enrolled in LTUC training to become Full Stack Developer.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=qais-alsgher&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qais-alsgher&layout=compact"/>
+<img algin="left" src="https://github-readme-stats.vercel.app/api?username=qais-alsgher&show_icons=true&theme=radical"/>
+<img algin="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qais-alsgher&layout=compact"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qais-alsgher&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qais-alsgher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
