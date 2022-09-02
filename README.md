@@ -13,7 +13,7 @@ I am currently enrolled in LTUC training to become Full Stack Developer.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qais-alsgher&layout=compact"/>
 
 # my skiles
-<div>
+
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,9 +23,8 @@ I am currently enrolled in LTUC training to become Full Stack Developer.
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-</div>
 <br/>
-
+<br/>
 # contact me
 <a href="https://github.com/Ileriayo/markdown-badges"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://github.com/Ileriayo/markdown-badges"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
