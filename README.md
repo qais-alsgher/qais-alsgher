@@ -18,7 +18,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=FFFFFF" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=56BAEC" alt="Sequelize logo" title="Sequelize" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=FFFFFF" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
@@ -81,10 +83,11 @@
 </div>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
+<div align="center">
+<a href="#" target="_blank" >
   <img src="svg/quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
+</div>
 
 
 
