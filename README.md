@@ -1,8 +1,6 @@
 
-
-<!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="Qais-official" />
+  <img src="svg/qais-alsgher.svg" width="1200" alt="Qais-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -19,6 +17,8 @@
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=FFFFFF" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
@@ -63,7 +63,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://web.facebook.com/people/Qais-Alsgher/100008614924656/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="qaisalsgher-facebook" />
   </a>
   <a href="https://www.youtube.com" target="blank">
@@ -79,7 +79,12 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="qaisalsgher-email" />
   </a>
 </div>
-
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/quotes.svg" width="846" height="150" alt="trungquandev-official" />
+</a>
 
 
 
